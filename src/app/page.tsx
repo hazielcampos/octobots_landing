@@ -13,7 +13,7 @@ export default function Home() {
           height={180}
           priority
         />
-        <h1 className={styles.title}>Welcome to Octobots</h1>
+        <h1 className={styles.title}>Bienvenido a octobots</h1>
         <p className={styles.description}>
           Aprende, crea y comparte proyectos de robótica con Octobots. Escuela de
           robótica para niños y adolescentes.
